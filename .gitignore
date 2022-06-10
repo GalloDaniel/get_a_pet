@@ -6,4 +6,4 @@ backend/public/images/pets/*.jpg
 backend/public/images/users/*.png
 backend/public/images/users/*.jpeg
 backend/public/images/users/*.jpg
-.DS_Store
+**/.DS_Store
