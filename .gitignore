@@ -1,0 +1,8 @@
+node_modules
+images
+backend/public/images/pets/*.png
+backend/public/images/pets/*.jpeg
+backend/public/images/pets/*.jpg
+backend/public/images/users/*.png
+backend/public/images/users/*.jpeg
+backend/public/images/users/*.jpg
